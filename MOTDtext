@@ -1,7 +1,15 @@
-- Added the Monke Games (red light Green Light is broken), Based on squid games.
+- Added the Monke Games, based on the show Squid Games
 
--the snow in forest is melting, and Christmas decorations are gone
+- Changed the way that the teleporting works, so it will be more reliable
 
--fixed the teleporting system  to be more reliable
+- your left lumb now has finger animations
 
--replaced the old jumpscares for an arguably better one
+- body cosmetics with arms are now aligned with the player
+
+- kick and bonk hammers now work
+
+- Updated the Networking on the gazibo rope
+
+- The snow has started to melt
+
+- reanimated the main game jumpscares
