@@ -1,8 +1,9 @@
-- Added the Monke Games, based on the show Squid Games
-- Changed the way that the teleporting works, so it will be more reliable
-- your left thumb now has finger animations
-- body cosmetics with arms are now aligned with the player
-- kick and bonk hammers now work
-- Updated the Networking on the gazibo rope
-- The snow Is gone, and the ice melted
-- reanimated the main game jumpscares
+REMODEL PREVIEW - ANYTHING IN THIS UPDATE IS BOUND TO CHANGE
+- there is a whole main game remodel. 
+- this update is a preview and another is coming out shortly, to polish everything up. 
+- player was remodeled
+- there are no monsters in LVL 1 yet.
+- added LIV camera mod to replace the old one.
+- optimized the game a bit more
+- mirrors should be less laggy
+- mod menus should have less bugs
