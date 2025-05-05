@@ -1,11 +1,9 @@
-Only Up and Infection
-- added the new only up map
-- patched a lot of bugs
-- fixed horror
-- fixed the cart system
-- fixed music
-- added trailer to storepage
-- added infection tag in main (2 or more players)
-- re-added the grabbables in main
-- made all grabbables networed.
-- fixed a few bugs with the grabbables
+Cave Enhancements
+- Fixed a lot of the weird cave lighting
+- added an elevator so you aren't stuck at the end of lvl 1
+- networked the elevator
+- added a lot of decorations to the horror caves
+- lit up a few rooms
+- added a ton of crystal grabbables to the cave
+- added a staff recognition on the side of shop
+- fixed a few small bugs
