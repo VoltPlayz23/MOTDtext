@@ -6,3 +6,5 @@ Cave Overhaul and Main Menu Minigames
 - re-added glass bridge to the main menu
 - added a voting system in the main menu
 - fixed a few bugs
+- changed the way the "queues" tab works
+(if you want to play tag, you have to be in the "tag" or "minigames queue)
