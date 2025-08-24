@@ -3,3 +3,4 @@ The Spider Cave (Preview)
 - fixed turning
 - fixed ropes
 - added some more occulision culling
+- fixed web colliders
