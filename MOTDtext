@@ -1,10 +1,7 @@
-Mini Update
+Im doing incremental updates
 ------------------
-- Some music has changed
-- Added player counter support to the discord
-- fixed voice chat
-- added a loading screen so things load properly
 - tweaked some photon syncing issues
 - tweaked how tag works
 - synced monsters differently
 - updated lvl 7 in horror
+- lvl 6 has a new monster model
