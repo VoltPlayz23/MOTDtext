@@ -1,7 +1,7 @@
-Im doing incremental updates
+lvl 4 monsters and stuff
 ------------------
-- tweaked some photon syncing issues
-- tweaked how tag works
-- synced monsters differently
-- updated lvl 7 in horror
-- lvls 3, 5, 6, and 8 all have new monster models
+- lvl 4 has 6 new monster models
+- the main lobby now has a report leaderboard
+- the main lobby now has a rules panel
+- the main lobby now has a mod and owner badge showcase
+- some syncing was slightly tweaked
